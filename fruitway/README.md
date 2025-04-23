@@ -1,4 +1,4 @@
-# fruitway
+# fruitopia
 Web application designed to purchase and sell fruits on a platform.
 # About
 This application uses PHP ,MySQL and XAMPP sever to run the project.
